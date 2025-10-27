@@ -26,7 +26,10 @@ We apply NLP techniques to clean and categorize complaints, visualize trends ove
 - **Python Libraries:** pandas, matplotlib, seaborn, nltk, textblob, wordcloud  
 - **Data Collection:** google-play-scraper, snscrape  
 - **Visualization:** matplotlib, seaborn, wordcloud  
-- **Output:** RCA Deck(https://drive.google.com/file/d/1vU-jgmolFQ0TRlKmpqj0BrbZUlLFyJOS/view?usp=sharing), CSV datasets, charts  
+- **Output:**
+-   1. RCA Deck(https://drive.google.com/file/d/1vU-jgmolFQ0TRlKmpqj0BrbZUlLFyJOS/view?usp=sharing)
+    2. CSV datasets,
+    3. charts  
 
 ---
 
